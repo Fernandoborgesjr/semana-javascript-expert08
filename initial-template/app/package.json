@@ -15,6 +15,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "prettier": "^3.0.3",
     "tar": "^6.2.0"
   }
 }
